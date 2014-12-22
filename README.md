@@ -35,9 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-The ret[ur]ne of M. Smythes enuoy ...Gray, William.1540Approx. 8 KB of XML-encoded text transcribed 
+
+1. The ret̄ne of. M. smythes enuoy seruaunt to the Kynges Royall Maiestye and Clerke of the Quenes graces counsell (though most vnworthy)
+
 #####Back#####
-The ret[ur]ne of M. Smythes enuoy ...Gray, William.1540Approx. 8 KB of XML-encoded text transcribed 
+¶ Imprynted at London by Rycharde bankes, Cum priuilegio ad imprimendum solum. And be to sell in Lom
 **Types of content**
 
   * There are 109 **verse** lines!
